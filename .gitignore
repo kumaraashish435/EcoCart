@@ -484,3 +484,9 @@ $RECYCLE.BIN/
 *.swp
 API/store.db
 API/appsettings.json
+API/store.db-shm
+.gitignore
+.gitignore
+API/store.db-wal
+.gitignore
+.gitignore
